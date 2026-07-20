@@ -5,7 +5,7 @@
 ## 🖼️ Project Preview
 ![Product Preview](product-preview.jpg)
 
-**[🔗 اضغط هنا لمعاينة المشروع مباشرة (Live Demo)](رابط_موقعك_هنا)**
+**[🔗 اضغط هنا لمعاينة المشروع مباشرة (Live Demo)](https://d13hn.github.io/product-preview-card-component/)**
 
 ---
 
