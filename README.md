@@ -3,7 +3,7 @@
 هذا الحل الخاص بي لتحدي "Product Preview Card" من منصة **Frontend Mentor**.
 
 ## 🖼️ Project Preview
-![Product Preview](product-preview.jpg.jpg)
+![Product Preview](product-preview.jpg)
 
 **[🔗 اضغط هنا لمعاينة المشروع مباشرة (Live Demo)](رابط_موقعك_هنا)**
 
